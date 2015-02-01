@@ -1,7 +1,7 @@
 {
   "name": "high-five-registry",
   "version": "0.0.0",
-  "description": "",
+  "description": "Receive the high fives and do something fun with the data",
   "main": "index.js",
   "scripts": {
     "start": "bin/high-five-registry.js",
@@ -29,5 +29,13 @@
   },
   "devDependencies": {
     "watchify": "^2.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanshaw/high-five-registry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanshaw/high-five-registry/issues"
+  },
+  "homepage": "https://github.com/alanshaw/high-five-registry"
 }
